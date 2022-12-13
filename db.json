@@ -1,4 +1,4 @@
-"events": [
+{"events": [
 {
 "id": "1",
 "category": "concert",
@@ -19,4 +19,4 @@
 "time": "09:00",
 "imagePath": "rockwerchter.png"
 }
-]
+]}
