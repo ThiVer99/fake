@@ -1,5 +1,5 @@
 {
-  "events":[
+  "events": [
     {
       "id": 1,
       "category": "concert",
@@ -8,7 +8,15 @@
       "location": "Boom",
       "date": "August 8, 2021",
       "time": "09:00",
-      "imagePath":"tomorrowland.png"
+      "imagePath": "tomorrowland.png",
+      "features": [
+        {
+          "parking": true,
+          "disabledAccess": true,
+          "camping": true,
+          "shops": false
+        }
+      ]
     },
     {
       "id": 2,
@@ -18,7 +26,15 @@
       "location": "Werchter",
       "date": "July 4, 2021",
       "time": "09:00",
-      "imagePath":"rockwerchter.png"
+      "imagePath": "rockwerchter.png",
+      "features": [
+        {
+          "parking": true,
+          "disabledAccess": true,
+          "camping": true,
+          "shops": true
+        }
+      ]
     },
     {
       "id": 3,
@@ -28,17 +44,33 @@
       "location": "Hasselt",
       "date": "July 22 2021",
       "time": "09:00",
-      "imagePath": "pukkelpop.png"
+      "imagePath": "pukkelpop.png",
+      "features": [
+        {
+          "parking": true,
+          "disabledAccess": false,
+          "camping": true,
+          "shops": true
+        }
+      ]
     },
     {
-      "id":4,
-      "category":"concert",
+      "id": 4,
+      "category": "concert",
       "title": "Graspop",
       "description": "Festival Rock",
       "location": "Dessel",
       "date": "July 04 2021",
       "time": "09:00",
-      "imagePath": "graspop.png"
+      "imagePath": "graspop.png",
+      "features": [
+        {
+          "parking": false,
+          "disabledAccess": false,
+          "camping": false,
+          "shops": false
+        }
+      ]
     }
   ]
 }
