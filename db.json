@@ -16,6 +16,26 @@
           "camping": true,
           "shops": false
         }
+      ],
+      "lineup": [
+        {
+          "artistid": 1,
+          "name": "Steve Aoki",
+          "day": "donderdag 29 juni",
+          "imagePath": "steveaoki.jpeg"
+        },
+        {
+          "artistid": 2,
+          "name": "Red Hot Chili Peppers",
+          "day": "vrijdag 30 juni",
+          "imagePath": "redhotchilipeppers.jpeg"
+        },
+        {
+          "artistid": 3,
+          "name": "Machine Gun Kelly",
+          "day": "zaterdag 1 juli",
+          "imagePath": "mgk.jpeg"
+        }
       ]
     },
     {
@@ -72,6 +92,26 @@
           "camping": true,
           "shops": true
         }
+      ],
+      "lineup": [
+        {
+          "artistid": 1,
+          "name": "Steve Aoki",
+          "day": "donderdag 29 juni",
+          "imagePath": "steveaoki.jpeg"
+        },
+        {
+          "artistid": 2,
+          "name": "Red Hot Chili Peppers",
+          "day": "vrijdag 30 juni",
+          "imagePath": "redhotchilipeppers.jpeg"
+        },
+        {
+          "artistid": 3,
+          "name": "Machine Gun Kelly",
+          "day": "zaterdag 1 juli",
+          "imagePath": "mgk.jpeg"
+        }
       ]
     },
     {
@@ -89,6 +129,26 @@
           "disabledAccess": false,
           "camping": false,
           "shops": false
+        }
+      ],
+      "lineup": [
+        {
+          "artistid": 1,
+          "name": "Steve Aoki",
+          "day": "donderdag 29 juni",
+          "imagePath": "steveaoki.jpeg"
+        },
+        {
+          "artistid": 2,
+          "name": "Red Hot Chili Peppers",
+          "day": "vrijdag 30 juni",
+          "imagePath": "redhotchilipeppers.jpeg"
+        },
+        {
+          "artistid": 3,
+          "name": "Machine Gun Kelly",
+          "day": "zaterdag 1 juli",
+          "imagePath": "mgk.jpeg"
         }
       ]
     }
