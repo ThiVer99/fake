@@ -34,6 +34,26 @@
           "camping": true,
           "shops": true
         }
+      ],
+      "lineup": [
+        {
+          "artistid": 1,
+          "name": "Stromae",
+          "day": "donderdag 29 juni",
+          "imagePath": "stromae.jpeg"
+        },
+        {
+          "artistid": 2,
+          "name": "Red Hot Chili Peppers",
+          "day": "vrijdag 30 juni",
+          "imagePath": "redhotchilipeppers.jpeg"
+        },
+        {
+          "artistid": 3,
+          "name": "Machine Gun Kelly",
+          "day": "zaterdag 1 juli",
+          "imagePath": "mgk.jpeg"
+        }
       ]
     },
     {
